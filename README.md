@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Suhaib Hassan, an experienced full-stack web & app developer with 5+ years of expertise in designing<br>and developing responsive websites, web apps, and mobile apps. Proficient in HTML,<br>CSS, JavaScript, React, React Native, and back-end technologies. Strong UX/UI skills<br>and collaborative approach for successful project delivery.
+I'm Suhaib Hassan, an experienced full-stack web & app developer with 3+ years of expertise in designing<br>and developing responsive websites, web apps, and mobile apps. Proficient in HTML,<br>CSS, JavaScript, React, React Native, and back-end technologies. Strong UX/UI skills<br>and collaborative approach for successful project delivery.
 
 
 ## 🌐 Socials:
