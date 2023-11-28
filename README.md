@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm Suhaib Hassan, an experienced full-stack engineer with 5+ years of expertise in designing and developing responsive websites, web apps, and mobile apps. Proficient in HTML,CSS, JavaScript, NextJS, React Native, back-end technologies like NodeJS, Express, PHP, and DevOps. Strong UX/UI skills and collaborative approach for successful project delivery.
+Hey there! I'm Suhaib, your friendly neighborhood code wizard! 🚀 With over 5 years of full-stack magic under my belt, I'm the guy you call when you want sleek and responsive websites, web apps, or mobile apps that dazzle and deliver.
+
+I speak fluent HTML, CSS, and JavaScript, and I'm on a first-name basis with NextJS and React Native. On the backend, I'm pals with NodeJS, Express, and PHP, making servers bow to my commands. Oh, and did I mention I have a black belt in DevOps?
+
+When I'm not crafting digital wonders, you'll find me perfecting my UX/UI kung fu and collaborating like a superhero for project success.
+
+So, whether you're into coding, climbing, caffeinating, strumming, reading, or just chilling with your furry friend, I'm your go-to guy! Let's chat and make some coding magic happen! 🔮✨
 
 
 ## 🌐 Portfolio:
