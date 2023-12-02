@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaybkaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="suhaybkaofficial" /> </p>
 
 <h3 align="left">Portfolio:</h3>
-<p align="left"><a href="https://suhaybka.me" target="blank"> 🌐 Click to see </a></p>
+<p align="left"><a href="https://suhaybka.me" target="blank" style="text-decoration:none;"> 🌐 Click to see </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
