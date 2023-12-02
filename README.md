@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg](https://ih1.redbubble.net/image.370343333.1917/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="babel" width="40" height="40"/>
+    <img src="https://ih1.redbubble.net/image.370343333.1917/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" alt="babel" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
