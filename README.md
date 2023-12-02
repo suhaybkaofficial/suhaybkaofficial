@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaybkaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="suhaybkaofficial" /> </p>
 
 <h3 align="left">Portfolio:</h3>
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suhaybka.me/)
-<p align="left"><a href="https://suhaybka.me" target="blank"> 🌐</a></p>
+<p align="left"><a href="https://suhaybka.me" target="blank"> 🌐 Click to see </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
