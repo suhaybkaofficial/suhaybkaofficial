@@ -9,7 +9,10 @@
 <a href="https://twitter.com/suhaybkaofficia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhaybkaofficia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhaybkaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaybkaofficial" height="30" width="40" /></a>
 <a href="https://fb.com/suhaybkaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhaybkaofficial" height="30" width="40" /></a>
-</p><p align="left">
+</p>
+
+<h3 align="left"Languages & Tools</h3>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
