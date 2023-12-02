@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suhaib Hassan</h1>
 <p >Your friendly neighborhood code wizard! 🚀 With over 5 years of full-stack magic under my belt, I'm the guy you call when you want sleek and responsive websites, web apps, or mobile apps that dazzle and deliver. I speak fluent HTML, CSS, and JavaScript, and I'm on a first-name basis with NextJS and React Native. On the backend, I'm pals with NodeJS, Express, and PHP, making servers bow to my commands. Oh, and did I mention I have a black belt in DevOps? When I'm not crafting digital wonders, you'll find me perfecting my UX/UI kung fu and collaborating like a superhero for project success. So, whether you're into coding, climbing, caffeinating, strumming, reading, or just chilling with your furry friend, I'm your go-to guy! Let's chat and make some coding magic happen! 🔮✨</p>
 
-<h3 align="left" color="white">Portfolio:</h3>
-<p align="left"><a href="https://suhaybka.me" target="blank" > 🌐 Portfolio </a></p>
+<h3 align="left" style="color: white; text-decoration: none; text-align: left; font-weight: bold;">Portfolio:</h3>
+<p align="left"><a href="https://suhaybka.me" target="blank" style="color: white; text-decoration: none; font-weight: bold;">🌐 Portfolio</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
