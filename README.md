@@ -5,6 +5,7 @@
 
 <h3 align="left">Portfolio:</h3>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suhaybka.me/)
+<p align="left"><a href="https://suhaybka.me" target="blank"> 🌐</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
