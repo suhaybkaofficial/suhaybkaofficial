@@ -3,6 +3,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://suhaybka.me](https://suhaybka.me)
 - 💼 Most recent project is available at [https://qalamquiz.com](https://qalamquiz.com)
+- 💼 Most recent project is available at [https://monotheist.vercel.app](https://monotheist.vercel.app)
 
 
 <h3 align="left">Connect with me:</h3>
