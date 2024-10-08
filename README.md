@@ -1,5 +1,4 @@
-I'm Suhaib Hassan, a Full-Stack Developer with 5+ years of experience creating responsive websites, web, and mobile apps. I specialize in JavaScript, React Native, Next.js, Node.js, and PHP, with strong DevOps skills. I'm passionate about delivering high-quality, user-friendly solutions, combining clean code with an eye for design and functionality.
-
+I'm Suhaib Hassan, a Senior Software Engineer and coding enthusiast.
 💼 Check out my latest project: examgen.ai
 
 <h3 align="left">Connect with me:</h3>
